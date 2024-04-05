@@ -45,7 +45,7 @@ set -x GHQ_SELECTOR_OPTS "--layout=top-down --prompt='ghq>'"
 
 ## License
 
-fish-ghq is MIT licensed. See [LICENSE](LICENSE,txt) file for details.
+fish-ghq is MIT licensed. See [LICENSE](LICENSE.txt) file for details.
 
 [ghq]:https://github.com/x-motemen/ghq
 [peco]:https://github.com/peco/peco
