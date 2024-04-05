@@ -11,7 +11,7 @@ keybinding for [ghq]
 ## Install
 
 ```fish
-fisher install decors/fish-ghq
+fisher install mimikun/fish-ghq
 ```
 
 ## Keybinding
